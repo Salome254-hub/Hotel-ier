@@ -36,14 +36,14 @@ nav{
 
  .nav-links li a{
     text-decoration: solid;
-    color: #fff;
+    color: #000;
 
 
  }
 
  .register-btn{
-    background: #ffff;
-    color: #000;
+    background: #000;
+    color: rgb(247, 20, 20);
     padding: 8px 20px;
     border-radius: 20px;
     text-decoration: solid;
@@ -58,10 +58,33 @@ nav{
  .header h1{
     font-size: 4vw;
     font-weight: 500;
-    color: #fff;
+    color: #000;
     text-align: center;
     padding-top: 22%;
 
 }
+.search-bar{
+    background: #000;
+    width: 70%;
+    margin: 30px auto;
+    padding: 6px 10px 6px 30 px;
+    border-radius: 50px;
 
+
+}
+
+.search-bar{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
  
+.search-bar form input{
+    display:block;
+    border:0;
+    outline: none;
+    /* background: transparent; */
+
+
+}
