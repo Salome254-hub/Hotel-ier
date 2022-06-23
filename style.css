@@ -35,8 +35,8 @@ nav{
  }
 
  .nav-links li a{
-    text-decoration: wavy;
-    color: rgb(36, 5, 5);
+    text-decoration: solid;
+    color: #fff;
 
 
  }
@@ -44,9 +44,24 @@ nav{
  .register-btn{
     background: #ffff;
     color: #000;
+    padding: 8px 20px;
+    border-radius: 20px;
+    text-decoration: solid;
+    font-size: 14px;
 
 
  }
+.container{
+    padding: 0 7%;
 
+}
+ .header h1{
+    font-size: 4vw;
+    font-weight: 500;
+    color: #fff;
+    text-align: center;
+    padding-top: 22%;
+
+}
 
  
