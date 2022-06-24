@@ -58,14 +58,14 @@ nav{
  .header h1{
     font-size: 4vw;
     font-weight: 500;
-    color: #000;
+    color: #fff;
     text-align: center;
     padding-top: 22%;
 
 }
 .search-bar{
-    background: #000;
-    width: 70%;
+    background: #fff;
+    width: 80%;
     margin: 30px auto;
     padding: 6px 10px 6px 30 px;
     border-radius: 50px;
@@ -73,7 +73,7 @@ nav{
 
 }
 
-.search-bar{
+.search-bar form{
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -84,7 +84,24 @@ nav{
     display:block;
     border:0;
     outline: none;
-    /* background: transparent; */
+    background: transparent;
+
+
+}
+.search-bar form button{
+    background: #ff5361;
+    width: 50px;
+    height:55px;
+    border-radius: 50%;
+    border:0;
+    outline: none;
+    cursor:pointer ;
+
+}
+.search-bar form button img{
+    width: 15px;
+    margin-top: 7px;
+
 
 
 }
