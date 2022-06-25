@@ -103,7 +103,6 @@ nav{
     margin-top: 7px;
 
 
-
 }
 .location-input{
     flex: 1;
@@ -111,5 +110,29 @@ nav{
 
 .search-bar form label{
 font-weight: 600;
+
+}
+
+/*Exclusives Services*/
+
+.sub-title{
+    margin: 50px 0 20px;
+    font-size: 2.2vw;
+    font-weight: 500;
+    color: #333;
+
+}
+
+.ExclusiveServices{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 30px;
+
+
+}
+
+.ExclusiveServices div img{
+    width: 100%;
+    border-radius: 10px;
 
 }
