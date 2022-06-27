@@ -1,11 +1,11 @@
 # HOTELIER
 
 #### Brief DESCRIPTION
-###This application is used by anyone who is aspiring to go for a vacation in any place all over the world.
+This application can be used by anyone who is aspiring to go for a vacation in any place all over the world.
 #### Contributors
-#### By Salome Mabonga
+By Salome Mabonga
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This application is very useful as it can be used by both local and international tourist who like travelling and visiting 
 ## Setup/Installation Requirements
 * Clone the repo {git clone https://github.com/jonnygovish/cookie-recipe.git}
 * to list setup instructions
