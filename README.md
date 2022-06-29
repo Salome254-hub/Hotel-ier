@@ -4,6 +4,8 @@
 This application can be used by anyone who is aspiring to go for a vacation in any place all over the world also it can be used by any hotel owner looking forward to market their services digitally.
 This is the landing page of my website
 ![Backgound.img](images/Screenshot%20(34).png)
+The rest of the page 
+![Backgound.img](images/Screenshot%20(35).png)
 #### Contributors
 Hotelier is a development by Salome Mabonga a software engineer.
 ## Description
