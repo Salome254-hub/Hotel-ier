@@ -1,11 +1,13 @@
 # _**HOTELIER**_
 ---
 ###  **BRIEF DESCRIPTION**
-This application can be used by anyone who is aspiring to go for a vacation,seeking good 5-star hotel, searching for accommodation in any place all over the world. Hotelier can be used by any hotel owner looking forward to market their services digitally.
+This application can be used by anyone who is aspiring to go for a vacation,anyone seeking a good 5-star hotel anywhere in the world, anyone searching for accommodation in any place all over the world. Moreover, Hotelier can be used by any hotel owner looking forward to market their services digitally and to get a world class reputation!!
+
 `This is the landing page of my website`
 ![Backgound.img](images/Screenshot%20(34).png)
 
 ---
+
 `The rest of the page`
 ![Backgound1.img](images/Screenshot%20(35).png)
 
