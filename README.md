@@ -38,7 +38,7 @@ JAVASCRIPT
 
 - Javascript this is used to test the functionality of html and CSS.
 ### **SUPPORT AND CONTACT DETAILS**
-Incase of any issues feel free to contact me at my email address at [](sallynanjala254@gmail.com) you can also make your contributions.
+Incase of any issues feel free to contact me at my email address at [sallynanjala254@gmail.com](sallynanjala254@gmail.com) you can also make your contributions.
 ### **License**
 MIT License
 
